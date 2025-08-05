@@ -10,7 +10,7 @@ Learning is a lifelong journey.
 * ✉️  You can contact me at [mossworklife@gmail.com](mailto:mossworklife@gmail.com)
 
 ## My Skills 
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -57,15 +57,6 @@ Learning is a lifelong journey.
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
