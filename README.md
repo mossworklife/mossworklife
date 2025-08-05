@@ -7,7 +7,7 @@ Full-Stack Developer / Front-End / Back-End
 A Computer Engineering graduate from Naresuan University with an interest in a career as a web or application developer. I have a foundation in systematic thinking, which I applied to solve real problems during my internship. This experience helped me understand real-world work processes and I can adapt well to different situations. I am looking for an opportunity to be part of a team that supports self-development and am ready to dedicate myself to achieving successful outcomes together.
 
 * 🌍  I'm based in Ayutthaya
-* 🖥️  See my portfolio at github.com/mossworklife
+* 🖥️  See my portfolio at <a href="[https://github.com/mossworklife]" target="_blank"></a>  
 * ✉️  You can contact me at [mossworklife@gmail.com](mailto:mossworklife@gmail.com)
 
 ## Skills 
