@@ -16,7 +16,7 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 
 
 ### Frontend  
-<div align="center">  
+<div align="">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -64,7 +64,8 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 
 ## Socials
 
-<p align="left"> <a href="https://discord.com/users/kainoy.com" target="_blank" rel="noreferrer">
+<p align="left"> 
+        <a href="https://discord.com/users/kainoy.com" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
@@ -73,7 +74,8 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
                 width="32" height="32" alt="Discord" title="Discord" />
         </picture>
-    </a> <a href="https://www.facebook.com/mosreview" target="_blank" rel="noreferrer">
+    </a> 
+        <a href="https://www.facebook.com/mosreview" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
@@ -82,7 +84,8 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
                 width="32" height="32" alt="Facebook" title="Facebook" />
         </picture>
-    </a> <a href="https://www.github.com/mossworklife" target="_blank" rel="noreferrer">
+    </a> 
+        <a href="https://www.github.com/mossworklife" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -91,7 +94,8 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
                 width="32" height="32" alt="Github" title="Github" />
         </picture>
-    </a> <a href="http://www.instagram.com/mosskjp._" target="_blank" rel="noreferrer">
+    </a> 
+        <a href="http://www.instagram.com/mosskjp._" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
