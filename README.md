@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer / Front-End / Back-End
 -------------------------------------------
 
-Learning is a lifelong journey.
+A Computer Engineering graduate from Naresuan University with an interest in a career as a web or application developer. I have a foundation in systematic thinking, which I applied to solve real problems during my internship. This experience helped me understand real-world work processes and I can adapt well to different situations. I am looking for an opportunity to be part of a team that supports self-development and am ready to dedicate myself to achieving successful outcomes together.
 
 * 🌍  I'm based in Ayutthaya
+* 🖥️  See my portfolio at github.com/mossworklife
 * ✉️  You can contact me at [mossworklife@gmail.com](mailto:mossworklife@gmail.com)
 
 ## Skills 
