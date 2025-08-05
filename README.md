@@ -99,6 +99,5 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 
 📞 **Tel:** [098-338-9367](tel:0983389367)  
 📧 **Email:** [mossworklife@gmail.com](mailto:mossworklife@gmail.com)  
-💬 **Line:** [0983389367](https://line.me/ti/p/~0983389367)
 
 </p>
