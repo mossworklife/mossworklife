@@ -92,3 +92,13 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
                 width="32" height="32" alt="Instragram" title="Instragram" />
         </picture>
     </a></p>
+
+## Contact
+
+<p align="left">
+
+📞 **Tel:** [098-338-9367](tel:0983389367)  
+📧 **Email:** [mossworklife@gmail.com](mailto:mossworklife@gmail.com)  
+💬 **Line:** [0983389367](https://line.me/ti/p/~0983389367)
+
+</p>
