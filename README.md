@@ -50,7 +50,7 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 
 
 
-### Tool  
+### Tools  
 <div align="left">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -62,7 +62,7 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 <br/>  
 
 
-## Contact
+## Socials
 
 <p align="left"> 
         <a href="https://www.facebook.com/mosreview" target="_blank" rel="noreferrer">
@@ -75,16 +75,7 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
                 width="32" height="32" alt="Facebook" title="Facebook" />
         </picture>
     </a> 
-        <a href="https://www.github.com/mossworklife" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-                width="32" height="32" alt="Github" title="Github" />
-        </picture>
-    </a> 
+        
         <a href="http://www.instagram.com/mosskjp._" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -95,6 +86,18 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
                 width="32" height="32" alt="Instragram" title="Instragram" />
         </picture>
     </a>
+        
+        <a href="https://www.github.com/mossworklife" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+                width="32" height="32" alt="Github" title="Github" />
+        </picture>
+    </a> 
+        
         <a href="https://discord.com/users/kainoy.com" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
