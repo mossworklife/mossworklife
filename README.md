@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kajonporn Kitchid (Moss)
 ================================================================================================================================================
 
-Full-Stack Developer / Front-End / Back-End
+Full-Stack Developer / Web Developer
 -------------------------------------------
 
 A Computer Engineering graduate from Naresuan University with an interest in a career as a web or application developer. I have a foundation in systematic thinking, which I applied to solve real problems during my internship. This experience helped me understand real-world work processes and I can adapt well to different situations. I am looking for an opportunity to be part of a team that supports self-development and am ready to dedicate myself to achieving successful outcomes together.
