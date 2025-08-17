@@ -12,9 +12,6 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 
 ## Skills 
 
-
-
-
 ### Frontend  
 <div align="left">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -28,7 +25,6 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 </div>  
 
 
-
 ### Backend  
 <div align="left">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -40,6 +36,10 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 </div>  
 
 
+### ORM
+<div align="left">  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+</div>  
 
 ### Database  
 <div align="left">  
@@ -49,7 +49,6 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 </div>  
 
 
-
 ### Tools  
 <div align="left">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -57,6 +56,7 @@ A Computer Engineering graduate from Naresuan University with an interest in a c
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
+
 
 ### Programming Language
 <div alig="left">
